@@ -1,4 +1,4 @@
-### Opa, eu sou o Fuibui <img src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif">
+### Opa, eu sou o Fuibui <img src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif" widht"250">
 
 Here are some ideas to get you started:
 
