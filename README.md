@@ -2,6 +2,6 @@
 
 **👨🏻‍💻 Sobre mim**
 
-- 🔭 Desenvolvendo a [Scarlet](http://scarlet-website.glitch.me/)
-- 🎓 Estou Estudando JavaScript 
-- 💻 Estou interessado em Python
+- 🥀 🔭 Desenvolvendo a [Scarlet](http://scarlet-website.glitch.me/)
+- 🥀 🎓 Estou Estudando JavaScript 
+- 🥀 💻 Estou interessado em Python
