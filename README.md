@@ -1,6 +1,11 @@
-### 🥀 Opa, eu sou o Fuibui <img src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif" width="25">
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-**👨🏻‍💻 Sobre mim**
+[![twitter](https://img.shields.io/badge/-@fuibui-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/fuibui)  
+
+<h5>"O conhecimento é o caminho para a liberdade."</h5>
+
+<br><br>
+### <i>🎱 Sobre mim</i>
 
 - 🔭 Desenvolvendo a [Scarlet](http://scarlet-website.glitch.me/)
 - 🎓 Estou Estudando JavaScript 
