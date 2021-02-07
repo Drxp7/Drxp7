@@ -7,8 +7,8 @@
 <br><br>
 ### <i>🎱 Sobre mim</i>
 
-- 🎓 Estou Estudando JavaScript 
-- 💻 Estou interessado em Python
+- 🎓 Estou Estudando JavaScript e Python
+- 💻 Estou interessado em C#, PHP
 
 <p align="center">
   <img align="left" alt="Fuibui" src="https://github-readme-stats.vercel.app/api?username=fuibui&show_icons=true&theme=radical">
