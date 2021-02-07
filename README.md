@@ -11,5 +11,5 @@
 - 💻 Estou interessado em Python
 
 <p align="center">
-  <img alt="Fuibui" src="https://github-readme-stats.vercel.app/api?username=fuibui&show_icons=true&theme=radical">
+  <img align="left" alt="Fuibui" src="https://github-readme-stats.vercel.app/api?username=fuibui&show_icons=true&theme=radical">
 </p>
