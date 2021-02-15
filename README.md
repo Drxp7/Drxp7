@@ -11,5 +11,5 @@
 - 💻 Estou interessado em C#, PHP
 
 <p align="center">
-  <img align="left" alt="Fuibui" src="https://github-readme-stats.vercel.app/api?username=fuibui&show_icons=true&theme=radical">
+  <img align="left" alt="Drxp7" src="https://github-readme-stats.vercel.app/api?username=drxp7&show_icons=true&theme=radical">
 </p>
