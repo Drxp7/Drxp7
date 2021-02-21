@@ -13,6 +13,6 @@
 <p align="left">
   <img alt="fuibui" src="https://github-readme-stats.vercel.app/api?username=fuibui&show_icons=true&theme=radical">
 </p>
-<p align="right">
+<p align="left">
 <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuibui&theme=radical&show_icons=true">
 </p>
