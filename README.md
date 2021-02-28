@@ -10,9 +10,7 @@
 - 🎓 Estou Estudando JavaScript e Python
 - 💻 Estou interessado em C#, PHP
 
-<p align="left">
+<p align="center">
   <img alt="fuibui" src="https://github-readme-stats.vercel.app/api?username=fuibui&show_icons=true&theme=dark">
-</p>
-<p align="left">
-<img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuibui&theme=dark&show_icons=true">
+  <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuibui&theme=dark&show_icons=true">
 </p>
