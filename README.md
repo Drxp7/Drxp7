@@ -16,7 +16,6 @@
 - 💻 Estou interessado em
 
 ![PhP](https://img.shields.io/badge/-PhP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-![C#](https://img.shields.io/badge/-CSharp-grey?style=for-the-badge&logo=c#&logoColor=white&labelColor=8E2DE2)
 ---
 
 <p align="center">
