@@ -8,12 +8,9 @@
 ---
 ### <i>🎱 Sobre mim</i>
 
-- 🎓 Estou Estudando
+- 🎓 Estou Estudando: JavaScript e Python
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-- 💻 Estou interessado em
+- 💻 Estou interessado em: C# e PHP
 
 ![PhP](https://img.shields.io/badge/-PhP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ---
