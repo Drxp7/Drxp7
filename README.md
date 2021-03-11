@@ -12,7 +12,6 @@
 
 - 💻 Estou interessado em: C# e PHP
 
-![PhP](https://img.shields.io/badge/-PhP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ---
 
 <p align="center">
