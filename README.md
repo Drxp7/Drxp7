@@ -18,6 +18,3 @@
   <img alt="fuibui" src="https://github-readme-stats.vercel.app/api?username=fuibui&show_icons=true&theme=dark">
   <img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuibui&theme=dark&show_icons=true">
 </p>
-<p align = "center">
-  <img alt ="discord" src="https://discord.c99.nl/widget/theme-2/594336719688433674.png">
-</p>
