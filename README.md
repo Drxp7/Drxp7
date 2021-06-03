@@ -1,5 +1,3 @@
-<br><br>
----
 ### <i>🎱 About me</i>
 
 - 🎓 Currently learning:JavaScript and Python
