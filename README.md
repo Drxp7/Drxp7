@@ -9,5 +9,4 @@
 - Você pode checar alguns de meus projetos abaixo!
 ## [McPG](https://github.com/Fuibui/minecraft-potion-guide)
   - O McPG é um site simples de receitas de poções de minecraft, eu criei ele para poder estudar mais sobre front end, atualmente o projeto esta arquivado.
-[![MCPG](https://github-readme-stats.vercel.app/api/pin/?username=fuibui&repo=McPG)](https://github.com/Fuibui/minecraft-potion-guide)
 
