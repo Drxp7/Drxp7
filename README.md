@@ -5,7 +5,7 @@
 ## 🤔 Who i am?
 - I am a newbie front end and web developer, i develop using [HTML](https://pt.wikipedia.org/wiki/HTML), [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets), [SASS](https://sass-lang.com/) and [JavaScript](https://pt.wikipedia.org/wiki/JavaScript).
 
-<h2 align="center"> 📋 Sumary:</h2>
+<h1 align="center"> 📋 Sumary:</h1>
 
 # 🐦 Github Status:
 ![Meus status do github](https://github-readme-stats.vercel.app/api?username=Fuibui&show_icons=true&theme=gotham)
