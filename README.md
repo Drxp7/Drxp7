@@ -8,8 +8,7 @@ I'm **Fubo**, a 13 years old guy who loves programming.
 
 ### 📖 Learning
 - C#
-- C/C++
-- PHP
+- Advanced JS
 
 ### ⚙️ My Projects
 - 🔧 [Sweety](https://discord.gg/jsyFQckvbp) - A advanced Windows10 PC optimizer write in batch - (FREE)
