@@ -2,8 +2,8 @@
 I'm **Fubo**, a 13 years old guy who loves programming.
 
 ### ✨ Experience
-- HTML/CSS — i started my "carrer" building some shit websites, you can check my personal website [here](https://fubo.cf)
-- Batch — yes, this look like a joke, but i dev some advanced tools with batch
+- HTML/CSS — i started my "carrer" building some shit websites, you can check my personal website [here](https://fubo.cf).
+- Batch — yes, this look like a joke, but i dev some advanced tools with batch.
 - General JS — i've worked on a few js things, not much.
 
 ### 📖 Learning
