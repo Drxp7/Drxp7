@@ -1,6 +1,8 @@
 ## Hey!
 I'm **Fubo**, a 13 years old guy who loves programming.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/594336719688433674)](https://discord.com/users/594336719688433674)
+
 ### ✨ Experience
 - HTML/CSS — i started my "carrer" building some shit websites, you can check my personal website [here](https://fubo.cf).
 - Batch — yes, this look like a joke, but i dev some advanced tools with batch.
