@@ -13,7 +13,7 @@ I'm **Fubo**, a 13 years old guy who loves programming.
 - Advanced JS
 
 ### ⚙️ My Projects
-- 🔧 [Sweety](https://discord.gg/jsyFQckvbp) - A advanced Windows10 PC optimizer write in batch - (FREE)
+- 🔧 [Sweety](https://sweeety.tk/) - A advanced Windows10 PC optimizer write in batch - (FREE)
 - ⚗️ [MCPG](https://github.com/Fuibui/minecraft-potion-guide) - A simple website with all minecraft potion recipes - (Discontinued)
 
 ## &#x1f4c8; GitHub Stats
