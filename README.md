@@ -1,5 +1,5 @@
 ## Hey!
-I'm **Fubo**, a 13 years old guy who loves programming.
+I'm **Fubo**, a 14 years old guy who loves programming.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/474329232731013162)](https://discord.com/users/474329232731013162)
 
