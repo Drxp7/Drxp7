@@ -9,11 +9,11 @@ I'm **Fubo**, a 14 years old guy who likes programming.
 - General JS — i've worked on a few js things, not much.
 
 ### 📖 Learning
-- C#
-- Advanced JS
+- PHP
+- Rust
 
 ### ⚙️ My Projects
-- 🔧 [Sweety](https://sweeety.tk/) - A advanced Windows10 PC optimizer write in batch - (FREE)
+- 🐸 [Moogz](https://moogz.one) - The best free pc optimizer - (WIP)
 - ⚗️ [MCPG](https://github.com/Fuibui/minecraft-potion-guide) - A simple website with all minecraft potion recipes - (Discontinued)
 
 ## &#x1f4c8; GitHub Stats
